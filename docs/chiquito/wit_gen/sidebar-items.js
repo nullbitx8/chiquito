@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"struct":["FixedGenContext","StepInstance","TraceContext","TraceGenerator","TraceWitness"],"type":["FixedAssignment","Trace","Witness"]};
